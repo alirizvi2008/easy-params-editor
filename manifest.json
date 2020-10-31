@@ -12,5 +12,8 @@
         "default_icon": "icons/params-icon.png",
         "default_title": "Easy Params Editor",
         "default_popup": "popup.html"
-    }
+    },
+    "permissions": [
+        "storage"
+    ]
 }
